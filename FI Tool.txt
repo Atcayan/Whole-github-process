@@ -1,0 +1,24 @@
+Live tool
+
+Averda 
+1. template - new narrow media report
+2. distribution list - Default
+
+Couche tard-1
+1. template - New narrow with TOC
+2. distribution list - smaller distribution
+3. select report - Alimentation couche tard with summary
+4. Settings - Content category, content type, Add summary
+
+Couche tard-2
+1. template - New narrow without TOC
+2. distribution list - Default
+3. select report -Alimentation couche tard final report
+4. Settings - Content category, content type, Add summary
+
+RI Canada
+
+1. Template - new narrow daily digest
+2. distribution list - default
+3. Select report - renewable industries
+4. settings - content category & content type
